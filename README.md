@@ -12,3 +12,4 @@ the‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ light‎‎ ‎
 [main](https://github.com/princesoma)‎
  <p align="center"
 
+DNI if you only know the Takarazuka Elisabeth. You are a "Japanboo" and I don't want you talking to me. Many thanks.
