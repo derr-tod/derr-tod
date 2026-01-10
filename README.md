@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**derr-tod/derr-tod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
+  
+the‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ light‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ will‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ cast‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ me‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ [aside](https://rentry.co/viinegardoppio)‎
+ <p align="center"
 
-Here are some ideas to get you started:
+![](https://file.garden/aVJ-8_Qn93xoMxFi/358ca1647224da49cb8cadb5c5c62474.gif)
+<p align="center"](https://file.garden/aVJ-8_Qn93xoMxFi/358ca1647224da49cb8cadb5c5c62474.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"
+  
+[main](https://github.com/princesoma)‎
+ <p align="center"
+
